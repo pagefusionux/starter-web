@@ -1,1 +1,7 @@
 Stupid hipster text here.
+
+Another stupid text line here.
+
+Yet a third stupid line.
+
+And a fourth line here.
